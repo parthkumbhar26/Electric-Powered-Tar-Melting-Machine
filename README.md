@@ -9,9 +9,9 @@ This project introduces a compact, portable, electrically operated system that d
 
 - The machine utilizes a dual-heating system:
 
-- Bottom induction heater for primary rapid heating
+- Bottom induction heater for secondary rapid heating
 
-- Side nichrome heating coil for controlled secondary heating
+- top-mounted nichrome heating coil for controlled primary heating
 
 The assembly is supported by glass-wool insulation, a durable plywood exterior, and an MS melting chamber that ensures thermal and structural stability.
 Testing shows a major improvement: melting time drops from 96 minutes (traditional) to 22 minutes (electric), demonstrating clear gains in efficiency, control, and usability.
@@ -39,7 +39,7 @@ This solution is practical and field-ready, ideal for municipal road maintenance
 
 ---
 
-  ## Material Selection
+## Material Selection
 - **Melting Chamber**
 
   Fabricated from mild steel (MS sheet) to provide durability, efficient heat conduction, and resistance to repeated thermal cycles during continuous melting operations.
@@ -97,7 +97,7 @@ This solution is practical and field-ready, ideal for municipal road maintenance
 
 ---
 
-  ## Working Procedure
+## Working Procedure
 - **Loading the Cylinders**
   
   Tar-filled cylinders are placed upside down on the top section of the machine. This orientation allows softened tar to drip downward into the main chamber as heating begins.
@@ -124,7 +124,7 @@ This solution is practical and field-ready, ideal for municipal road maintenance
 
 ---
 
-  ## Testing & Results
+## Testing & Results
 - **Traditional Method**
 
   - Tar cylinders were manually heated over an open wood fire.
@@ -152,3 +152,8 @@ This solution is practical and field-ready, ideal for municipal road maintenance
   | Fuel / Energy Cost        | High (wood)        | Low (electric)   |
   | Overall Improvement       | –                  | 77% Faster       |
 
+---
+
+## Conclusion
+
+  The electric tar melting machine delivers a substantially faster, safer, and more cost-effective melting process compared to traditional wood-fired methods. The dual-heating system ensures uniform heating, reduces operator exposure to hazards, and enhances overall productivity in road-maintenance operations.
