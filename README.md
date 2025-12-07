@@ -4,7 +4,7 @@ Final Year Group Project
 ---
 
 ## Project Overview
-The Electric Tar Melting Machine is designed as a modern, efficient alternative to traditional wood-fired tar heating used in road-repair applications. Conventional methods are slow, unsafe, difficult to control, and highly inefficient in fuel use and heat distribution.
+  The Electric Tar Melting Machine is designed as a modern, efficient alternative to traditional wood-fired tar heating used in road-repair applications. Conventional methods are slow, unsafe, difficult to control, and highly inefficient in fuel use and heat distribution.
 This project introduces a compact, portable, electrically operated system that delivers faster melting, uniform heating, reduced operating cost, and improved worker safety.
 
 - The machine utilizes a dual-heating system:
@@ -37,7 +37,7 @@ This solution is practical and field-ready, ideal for municipal road maintenance
 
   PU wheels offer smooth mobility, allowing quick transportation and setup during on-site road maintenance tasks.
 
-  ---
+---
 
   ## Material Selection
 - **Melting Chamber**
@@ -95,7 +95,7 @@ This solution is practical and field-ready, ideal for municipal road maintenance
 
   Inspect all welds, joints, and structural connections for accuracy and strength. Verify coil mounting alignment, insulation coverage, and chamber fit. Conduct a dry mechanical run to confirm stability and mobility before heating operations.
 
-  ---
+---
 
   ## Working Procedure
 - **Loading the Cylinders**
@@ -122,7 +122,7 @@ This solution is practical and field-ready, ideal for municipal road maintenance
 
   Once the tar reaches a fully melted, pourable consistency, it is discharged through the outlet or collected as required. The chamber is then inspected and prepared for the next operational cycle.
 
-  ---
+---
 
   ## Testing & Results
 - **Traditional Method**
