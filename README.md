@@ -141,11 +141,14 @@ This solution is practical and field-ready, ideal for municipal road maintenance
   - No flame or smoke exposure, greatly improving operator safety and comfort.
   - Average energy use was measured at ~0.63 kWh per melting cycle.
 
-3. Comparison Summary
-Parameter	Traditional Method	Electric Machine	Improvement
-Total melting time	96 min	22 min	~77% faster
-Energy/Fuel consumption	~2 kg wood	0.63 kWh	Large cost reduction
-Heating uniformity	Poor	Very uniform	Major improvement
-Safety	Low (open fire, smoke)	High (no flame)	Better operator safety
-Material handling	Difficult	Controlled & clean	More efficient
-Environmental impact	High smoke	Low emissions	Significant improvement
+- **Comparison Summary Table**
+
+  | Parameter                  | Traditional Method | Electric Machine |
+  |---------------------------|--------------------|------------------|
+  | Melting Time (1 kg tar)   | 96 min             | 22 min           |
+  | Smoke & Fumes             | High               | Very Low         |
+  | Operator Exposure         | Significant        | Minimal          |
+  | Melting Consistency       | Uneven             | Uniform          |
+  | Fuel / Energy Cost        | High (wood)        | Low (electric)   |
+  | Overall Improvement       | –                  | 77% Faster       |
+
