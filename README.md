@@ -1,4 +1,4 @@
-# Electric-Powered-Tar-Melting-Machine
+# Electric-Powered Tar Melting Machine
 Final Year Group Project 
 
 ---
